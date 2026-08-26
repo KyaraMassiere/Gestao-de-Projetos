@@ -1,6 +1,6 @@
 # 🚀 Gestão de Projetos e Metodologias Ágeis
 
-![Status](https://img.shields.io/badge/Status-Em_Progresso-yellow)
+![Status](https://img.shields.io/badge/Status-Finalizado-green)
 ![Foco](https://img.shields.io/badge/Foco-Gestão_de_TI-blue)
 ![Metodologia](https://img.shields.io/badge/Metodologia-Ágil/Scrum-green)
 
